@@ -1,0 +1,16 @@
+PODS:
+  - BaseOCTools (0.1.0)
+
+DEPENDENCIES:
+  - BaseOCTools (from `../`)
+
+EXTERNAL SOURCES:
+  BaseOCTools:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BaseOCTools: c19695ff2b6a812a69f4cd419d227ea6c4c43c1e
+
+PODFILE CHECKSUM: eb1b1ad5a772f13e2c9ff8fa0ee9d865e1ceb1de
+
+COCOAPODS: 1.10.1

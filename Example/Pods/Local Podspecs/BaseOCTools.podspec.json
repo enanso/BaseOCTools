@@ -1,0 +1,22 @@
+{
+  "name": "BaseOCTools",
+  "version": "0.1.0",
+  "summary": "A short description of BaseOCTools.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lanmemory@163.com/BaseOCTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lanmemory@163.com": "lanmemory@163.com"
+  },
+  "source": {
+    "git": "https://github.com/lanmemory@163.com/BaseOCTools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "BaseOCTools/Classes/**/*"
+}
